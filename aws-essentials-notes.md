@@ -14,3 +14,5 @@ Topics:
 - Auto Scaling (scalable and elastic architecture)
 - Route 53 (domain & DNS)
 - Lambda (serverless computing)
+
+## lecture 2
