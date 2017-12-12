@@ -1,6 +1,8 @@
 # AWS Essentials - lecture notes
+---
+## Section 1
 
-## lecture 1
+### Lecture 1
 
 Topics:
 - IAM - Identity & Access Management
@@ -15,6 +17,6 @@ Topics:
 - Route 53 (domain & DNS)
 - Lambda (serverless computing)
 
-## lecture 2
+### Lecture 2
 
-## lecture 3
+### Lecture 3
