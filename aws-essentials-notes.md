@@ -16,3 +16,5 @@ Topics:
 - Lambda (serverless computing)
 
 ## lecture 2
+
+## lecture 3
