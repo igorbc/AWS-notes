@@ -1,8 +1,8 @@
 # AWS Essentials - lecture notes
----
+
 ## Section 1
 
-### Lecture 1
+#### Lecture 1
 
 Topics:
 - IAM - Identity & Access Management
@@ -17,12 +17,18 @@ Topics:
 - Route 53 (domain & DNS)
 - Lambda (serverless computing)
 
-### Lecture 2, 3 and 4
+#### Lecture 2, 3 and 4
 
 Introduction to Product Omega and its interactive guide.
 
-[Link to Project Omega interactive guide](https://www.lucidchart.com/documents/view/703f6119-4838-4bbb-bc7e-be2fb75e89e5/0)
+> [Link to Project Omega interactive guide.](https://www.lucidchart.com/documents/view/703f6119-4838-4bbb-bc7e-be2fb75e89e5/0)
 
 ## Section 2
 
-### Lecture 5
+#### Lecture 5 and 6
+
+Information about AWS Free Tier and guid to create a new AWS account.
+
+#### Lecture 6
+
+Quick AWS console tour.
