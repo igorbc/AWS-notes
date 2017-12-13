@@ -17,6 +17,12 @@ Topics:
 - Route 53 (domain & DNS)
 - Lambda (serverless computing)
 
-### Lecture 2
+### Lecture 2, 3 and 4
 
-### Lecture 3
+Introduction to Product Omega and its interactive guide.
+
+[Link to Project Omega interactive guide](https://www.lucidchart.com/documents/view/703f6119-4838-4bbb-bc7e-be2fb75e89e5/0)
+
+## Section 2
+
+### Lecture 5
